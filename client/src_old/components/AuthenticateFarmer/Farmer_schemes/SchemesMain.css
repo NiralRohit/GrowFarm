@@ -1,0 +1,72 @@
+/* .Farmer_Tabs{
+
+} */
+
+.Main_Farmer_Schemes{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 95px;
+    
+}
+
+.Mainin_Farmer_Schemes{
+    width: 1350px;
+    margin: auto;
+    background: #ffffff;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all 0.3s;
+}
+
+.modal-backdrop.show {
+    opacity: 0.1 !important;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+    background-color: aliceblue;
+justify-content: center;
+  }
+
+tr th {
+    background-color: #9EFF9E !important;
+    font-weight: 500;
+    
+}
+
+
+tr:nth-child(odd) {
+    background-color: #ffffff57;
+  }
+
+tr:nth-child(even) {
+    background-color: #ffffff82;
+  }
+
+
+table th {
+    font-weight: 600;
+}
+
+#F_model_Table tr th {
+    background-color: #9eff9ecb !important;
+    font-weight: 500 !important;
+}
+#F_model_Table  {
+    border-radius: 5px;
+}
+#F_model_Table td  {
+    border: 1px solid #000000;
+}
+#F_model_Table tr {
+    border: 1px solid #c5c5c5;
+}
+#F_model_Table th {
+    border: 1px solid #747171;
+    width: 164px;
+}

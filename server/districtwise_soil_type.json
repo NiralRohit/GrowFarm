@@ -1,0 +1,515 @@
+[
+    {
+        "District" : "Ahmadabad",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 84,
+                "Persantage" : 15.64
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 284.9,
+                "Persantage" : 52.91
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 159,
+                "Persantage" : 29.59
+            },
+            {
+                "Soil" : "Sandy",
+                "Area" : 10,
+                "Persantage" : 1.86
+            }
+        ]
+    },
+    {
+        "District" : "Devbhumi Dwarka",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium Black",
+                "Area" : 50.1,
+                "Persantage" : 17.7
+            },
+            {
+                "Soil" : "Shallow Black",
+                "Area" : 111.7,
+                "Persantage" : 39.6
+            },
+            {
+                "Soil" : "Coastal Alluvial",
+                "Area" : 75.1,
+                "Persantage" : 26.6
+            },
+            {
+                "Soil" : "Red soil",
+                "Area" : 39.7,
+                "Persantage" : 14.1
+            },
+            {
+                "Soil" : "Hills soils",
+                "Area" : 5.7,
+                "Persantage" : 2.0
+            }
+        ]
+    },
+    {
+        "District" : "GIR SOMNATH",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 21.2,
+                "Persantage" : 11.6
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 103.3,
+                "Persantage" : 56.6
+            },
+            {
+                "Soil" : "Coastal alluvial",
+                "Area" : 58.1,
+                "Persantage" : 31.8
+            }
+       ]
+    },
+    {
+        "District" : "Gandhinagar",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium black to sandy loam",
+                "Area" : 164.0,
+                "Persantage" : 76.3
+            }
+            
+        ]
+    },
+    {
+        "District" : "Chhota Udepur",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Hilly light",
+                "Area" : 60.501,
+                "Persantage" : 18
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 210.808,
+                "Persantage" : 61
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 72.297,
+                "Persantage" : 21
+            }
+        ]
+    },
+    {
+        "District" : "Amreli",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium & shallow Black to Mixed Red &Black",
+                "Area" : 497.9,
+                "Persantage" : 67.5
+            },
+            {
+                "Soil" : "Coastal Alluvial & Saline",
+                "Area" : 139.2,
+                "Persantage" : 32.5
+            }
+        ]
+    },
+    {
+        "District" : "Anand",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Clay loam",
+                "Area" : 81.0,
+                "Persantage" :0 
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 124.0,
+                "Persantage" :0
+            }
+        ]
+    },
+    {
+        "District" : "Banas Kantha",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium black",
+                "Area" : 22.7,
+                "Persantage" : 3.0
+            },
+            {
+                "Soil" : "Loamy Sand to Sandy loamy",
+                "Area" : 325.7,
+                "Persantage" : 43.7
+            },
+            {
+                "Soil" : "Sandy",
+                "Area" : 395.6,
+                "Persantage" : 53.1 
+            }
+        ]
+    },
+    {
+        "District" : "Bharuch",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Heavy black Soil (plain) ",
+                "Area" : 327.61,
+                "Persantage" : 62.52
+            },
+            {
+                "Soil" : "Heavy black Soil (coastal) ",
+                "Area" : 75.25,
+                "Persantage" : 14.36
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 121.15,
+                "Persantage" : 23.12 
+            },
+            {
+                "Soil" : "Sandy",
+                "Area" : 10,
+                "Persantage" : 1.86
+            }
+        ]
+    },
+    {
+        "District" : "Bhavnagar",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Coastal alluvial",
+                "Area" : 254.4,
+                "Persantage" : 41.60
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 357.1,
+                "Persantage" : 58.40
+            }
+        ]
+    },
+    {
+        "District" : "Dang",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Lateritic",
+                "Area" : 86.7,
+                "Persantage" : 50
+            },
+            {
+                "Soil" : "Hilly",
+                "Area" : 86.7,
+                "Persantage" :50
+            }
+        ]
+    },
+    {
+        "District" : "Dohad",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Hilly light",
+                "Area" : 155.9 ,
+                "Persantage" : 42.7
+            },
+            {
+                "Soil" : "Sandy loam shallow",
+                "Area" : 39.2 ,
+                "Persantage" : 10.7
+            },
+            {
+                "Soil" : "Deep black shallow",
+                "Area" : 31.6,
+                "Persantage" : 8.6
+            }
+            ]
+    },
+    {
+        "District" : "Jamnagar",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Coastal alluvial",
+                "Area" : 299,
+                "Persantage" : 34.1
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 516,
+                "Persantage" : 59.0
+            }
+        ]
+    },
+    {
+        "District" : "Junagadh",
+        "Types_of_soil" :[
+            {
+                "Soil" : " Mixed red and Black",
+                "Area" : 132,
+                "Persantage" : 15
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 619,
+                "Persantage" : 70
+            },
+            {
+                "Soil" : "Coastal alluvial",
+                "Area" : 125,
+                "Persantage" : 14
+            }
+         ]
+    },
+    {
+        "District" : "Kutchh",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 1054,
+                "Persantage" : 53.8 
+            },
+            {
+                "Soil" : "Hydromorphic",
+                "Area" : 89,
+                "Persantage" : 4.5 
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 159,
+                "Persantage" : 29.59
+            }
+        ]
+    },
+    {
+        "District" : "Kheda",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 65332,
+                "Persantage" : 34
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 93300 ,
+                "Persantage" : 49
+            },
+            {
+                "Soil" : "Loamy sand",
+                "Area" : 12677 ,
+                "Persantage" : 7
+            },
+            {
+                "Soil" : "Sandy",
+                "Area" : 13253 ,
+                "Persantage" : 7
+            },
+            {
+                "Soil" : " Saline alkali",
+                "Area" : 5712,
+                "Persantage" : 3
+            }
+        ]
+    },
+    {
+        "District" : "Mahesana",
+        "Types_of_soil" :[
+            {
+                "Soil" : " Medium Black",
+                "Area" : 64.5,
+                "Persantage" : 14.8  
+            },
+            {
+                "Soil" : "Saline salt affected",
+                "Area" : 81.9,
+                "Persantage" : 18.6 
+            },
+            {
+                "Soil" : "Sandy to Sandy loam (",
+                "Area" : 288.6,
+                "Persantage" : 61.0
+            }
+        ]
+    },
+    {
+        "District" : "Navsari",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 225.2 ,
+                "Persantage" : 56.3
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 124.8,
+                "Persantage" : 31.2
+            }
+        ]
+    },
+    {
+        "District" : "Panchmahal",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium Black",
+                "Area" : 103.6 ,
+                "Persantage" : 20.2 
+            },
+            {
+                "Soil" : "Hilly light",
+                "Area" : 41.4 ,
+                "Persantage" : 8.1   
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 133.2 ,
+                "Persantage" : 26.0 
+            }
+        ]
+    },
+    {
+        "District" : "Patan",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium Black",
+                "Area" : 252.1 ,
+                "Persantage" : 44.5  
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 163.1,
+                "Persantage" : 58.8
+            }
+        ]
+    },
+    {
+        "District" : "Porbandar",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Medium Black",
+                "Area" : 172.5,
+                "Persantage" : 75.2 
+            },
+            {
+                "Soil" : "Black",
+                "Area" : 57.0,
+                "Persantage" : 24.8 
+            }
+            
+        ]
+    },
+    {
+        "District" : "Rajkot",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Alluvial",
+                "Area" : 222.2,
+                "Persantage" : 29.3
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 520.5,
+                "Persantage" : 68.6
+            },
+            {
+                "Soil" : "-hilly- clay loam",
+                "Area" : 15.7,
+                "Persantage" : 2.1
+            }
+        ]
+    },
+    {
+        "District" : "Sabarkantha",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Clay loam ",
+                "Area" : 49.9,
+                "Persantage" : 35.12
+            },
+            {
+                "Soil" : "Silty clay loam",
+                "Area" : 22.5,
+                "Persantage" : 15.63
+            },
+            {
+                "Soil" : "Sandy loam",
+                "Area" : 67.5,
+                "Persantage" : 47.46
+            }
+           ]
+    },
+    {
+        "District" : "Surendranagar",
+        "Types_of_soil" :[
+            
+            {
+                "Soil" : "Medium black",
+                "Area" : 633.4,
+                "Persantage" : 60.5
+            },
+            {
+                "Soil" : " Saline & Alkaline",
+                "Area" : 160.2,
+                "Persantage" : 15.3
+            },
+            {
+                "Soil" : "Sandy",
+                "Area" : 252.5,
+                "Persantage" : 24.1
+            }
+        ]
+    },
+    {
+        "District" : "Tapi",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 150.7 ,
+                "Persantage" : 43.7
+            },
+            {
+                "Soil" : "Hilly",
+                "Area" : 89.7,
+                "Persantage" : 26.0
+            }
+            ]
+    },
+    {
+        "District" : "Valsad",
+        "Types_of_soil" :[
+            {
+                "Soil" : "Black",
+                "Area" : 37.22,
+                "Persantage" : 14.1
+            },
+            {
+                "Soil" : "Medium black",
+                "Area" : 137.01,
+                "Persantage" : 51.9
+            },
+            {
+                "Soil" : "Loam ",
+                "Area" : 15.85,
+                "Persantage" : 5.8
+            },
+            {
+                "Soil" : "Sandy",
+                "Area" : 3.43,
+                "Persantage" : 1.3
+            },
+            {
+                "Soil" : "alkali",
+                "Area" : 0.79,
+                "Persantage" : 0.3
+            },
+            {
+                "Soil" : "Rocky",
+                "Area" : 69.7,
+                "Persantage" : 26.4
+            }
+        ]
+    }
+]

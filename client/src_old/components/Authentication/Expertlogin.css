@@ -1,0 +1,95 @@
+.auth-wrapper_ExpertLogin {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 65px;
+}
+
+.auth-inner_ExpertLogin {
+  display: flex;
+height: 500px;
+width: 800px;
+/* border: 1px solid black; */
+margin: auto;
+margin-top: 50px;
+
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#expertlogin_form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  align-items: center;
+  /* background-color: whitesmoke; */
+  background-color: #DCFADC;
+
+  
+}
+#expertlogin_h2{
+  font-size: 2.2rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  margin: 65px 40px 30px;
+  color: rgba(0, 129, 17, 0.932);
+
+  /* color: #6fcf37; */
+ 
+  letter-spacing: .1em;
+  text-shadow:
+    0 -1px 0 #070806,
+    0 2px 0 #000000,
+    0 2px 0 #000000,
+    0 3px 0 #000000,
+}
+
+#expert_logindata{
+
+padding: 7px;
+padding-left: 15px;
+width: 100%;
+margin: 5px;
+border: 1px solid black;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+outline: none;
+border-radius: 5px;
+
+}
+
+#expert_singinbtn {
+padding: 10px 30px;
+
+width: 25%;
+background-color: rgb(65, 121, 28);
+color: black;
+color: rgb(22, 24, 26);
+font-weight: bold;
+border: none;
+outline: none;
+border-radius: 10px;
+margin-top: 30px;
+}
+#expert_singinbtn:hover {
+cursor: pointer;
+background-color: darkgray;
+}
+
+#expert_rightside{
+display: flex;
+
+}
+
+#expert_rightimg{
+width: 380px;
+height: 500px !important;
+
+}
+
+#expert_login_pageflow {
+text-decoration: none;
+
+/* margin-top: 10px; */
+color: #000000;
+
+}

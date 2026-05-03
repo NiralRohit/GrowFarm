@@ -1,0 +1,23 @@
+[
+    {
+     "District": "Mhesana",
+     "Taluka": "Kadi",
+     "Village": "Karannagar",
+     "Surveynumber": 25,
+     "UPIN": 1070101600067,
+     "Oldsurveynumber": 6,
+     "Hectare": 0,
+     "Are": 56,
+     "Square_meters": 87,
+     "Totalassessmentrs": 3.25,
+     "Landusefor": "Agriculture",
+     "Farmname": "Padhrdu",
+     "Khatanum": 67,
+     "Ownership_Details" : [
+        {
+            "Farmername" : "Sankabhai Ishwarbhai Patel",
+            "Adharnum" : "123456789012"
+        }
+     ]
+    }
+]

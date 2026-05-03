@@ -1,0 +1,233 @@
+[
+    {
+        "District": "Ahmedabad",
+        "id": "IN.GU.AB",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Amreli",
+        "id": "IN.GU.AM",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Anand",
+        "id": "IN.GU.AN",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Aravalli",
+        "id": "IN.GU.AR",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Banaskantha",
+        "id": "IN.GU.BK",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Bharuch",
+        "id": "IN.GU.BR",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Bhavnagar",
+        "id": "IN.GU.BN",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Botad",
+        "id": "IN.GU.BT",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Chhota Udepur",
+        "id": "IN.GU.CU",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Dahod",
+        "id": "IN.GU.DA",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Devbhoomi Dwarka",
+        "id": "IN.GU.DD",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Gandhinagar",
+        "id": "IN.GU.GA",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Gir Somnath",
+        "id": "IN.GU.GS",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Jamnagar",
+        "id": "IN.GU.JM",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Junagadh",
+        "id": "IN.GU.JG",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Kachchh",
+        "id": "IN.GU.KA",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Kheda",
+        "id": "IN.GU.KD",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Mehsana",
+        "id": "IN.GU.MA",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Mahisagar",
+        "id": "IN.GU.MS",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Morbi",
+        "id": "IN.GU.MB",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Narmada",
+        "id": "IN.GU.NR",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Navsari",
+        "id": "IN.GU.NV",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Panchmahal",
+        "id": "IN.GU.PC",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Patan",
+        "id": "IN.GU.PA",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Porbandar",
+        "id": "IN.GU.PO",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Rajkot",
+        "id": "IN.GU.RK",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Sabarkantha",
+        "id": "IN.GU.SB",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Surat",
+        "id": "IN.GU.SR",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Surendranagar",
+        "id": "IN.GU.SD",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Tapi",
+        "id": "IN.GU.TP",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Dangs (Ahwa)",
+        "id": "IN.GU.DG",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Vadodara",
+        "id": "IN.GU.VA",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    },
+    {
+        "District": "Valsad",
+        "id": "IN.GU.VL",
+        "value" : 0,
+        "showlabel": 1,
+        "link": "newchart-json-SAM"
+    }
+]

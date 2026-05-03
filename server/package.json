@@ -1,0 +1,43 @@
+{
+  "name": "ssipfinalround",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishvas patel",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.48.0",
+    "@google/generative-ai": "^0.24.1",
+    "@tensorflow/tfjs": "^4.22.0",
+    "axios": "^1.14.0",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^3.0.3",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.0",
+    "express": "^4.18.2",
+    "express-rate-limit": "^8.3.2",
+    "form-data": "^4.0.5",
+    "generate-unique-id": "^2.0.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.0",
+    "multer": "^2.0.2",
+    "node-cron": "^4.2.1",
+    "otp-generator": "^4.0.0",
+    "pdfkit": "^0.18.0",
+    "redis": "^5.11.0",
+    "sharp": "^0.34.5",
+    "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4",
+    "twilio": "^3.84.0",
+    "validator": "^13.7.0",
+    "zod": "^4.3.6"
+  }
+}

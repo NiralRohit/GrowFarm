@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Sans:wght@400;500;600;700;800&display=swap");
+
+/* ═══════════════════════════════════════════════════════════
+   GrowFarm — Global Design System
+   ═══════════════════════════════════════════════════════════ */
+
+:root {
+  --primary: #2d6a4f;
+  --primary-dark: #1b4332;
+  --primary-light: #40916c;
+  --accent: #95d5b2;
+  --bg: #f0faf4;
+  --bg-card: #ffffff;
+  --text: #1a1a2e;
+  --text-muted: #6c757d;
+  --shadow: 0 4px 20px rgba(34, 35, 58, 0.08);
+  --shadow-hover: 0 8px 30px rgba(34, 35, 58, 0.15);
+  --radius: 12px;
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg) !important;
+  min-height: 100vh;
+  display: flex;
+  font-weight: 400;
+  font-family: "Inter", "Fira Sans", sans-serif;
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, label, span {
+  font-weight: 500;
+  font-family: "Inter", "Fira Sans", sans-serif;
+}
+
+body, html, .App, #root, .auth-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+/* ─── Navbar ──────────────────────────────────────────────── */
+.navbar-light {
+  background-color: #ffffff !important;
+  box-shadow: 0 2px 20px rgba(34, 35, 58, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav li a {
+  transition: var(--transition);
+}
+
+.navbar-light .navbar-nav li:hover a {
+  color: var(--primary) !important;
+}
+
+.navbar-light .navbar-nav li.active a {
+  color: var(--primary) !important;
+  font-weight: 600;
+}
+
+/* Smart Farming dropdown styling */
+.dropdown-menu {
+  border: none !important;
+  box-shadow: var(--shadow) !important;
+  border-radius: var(--radius) !important;
+  padding: 8px !important;
+  animation: dropIn 0.2s ease-out;
+}
+
+@keyframes dropIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.dropdown-item {
+  border-radius: 8px !important;
+  transition: var(--transition) !important;
+  padding: 8px 12px !important;
+}
+
+.dropdown-item:hover {
+  background: var(--bg) !important;
+  color: var(--primary) !important;
+}
+
+/* ─── Auth Forms ──────────────────────────────────────────── */
+.auth-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 40px;
+}
+
+.auth-inner {
+  width: 450px;
+  margin: auto;
+  background: var(--bg-card);
+  box-shadow: var(--shadow);
+  padding: 40px 55px 45px 55px;
+  border-radius: 16px;
+  transition: var(--transition);
+  margin-top: 70px;
+}
+
+.auth-inner:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.auth-wrapper .form-control:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(45, 106, 79, 0.12);
+}
+
+.auth-wrapper h3 {
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  padding-bottom: 20px;
+  color: var(--primary-dark);
+}
+
+.custom-control-label {
+  font-weight: 400;
+}
+
+.forgot-password,
+.forgot-password a {
+  text-align: right;
+  font-size: 13px;
+  padding-top: 10px;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.forgot-password a {
+  color: var(--primary);
+}
+
+/* ─── Smooth transitions everywhere ──────────────────────── */
+a, button, .btn, .card, .nav-link, input, select, textarea {
+  transition: var(--transition);
+}
+
+/* ─── Better scrollbar ────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}

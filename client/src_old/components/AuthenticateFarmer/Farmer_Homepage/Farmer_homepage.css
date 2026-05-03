@@ -1,0 +1,91 @@
+
+    .allcard{
+        margin: 70px;
+    }
+    
+    #cardsec1{
+      margin-top: -150px;
+      display: flex;
+      justify-content: center;
+      padding: 0px 150px 0px;
+    }
+    
+    #card1, #card2, #card3, #card4, #card5, #card6{
+    
+        /* border: solid black 2px; */
+        box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+        border-radius: 20px;
+        width: fit-content;
+    }
+    #card2, #card5
+    {
+        margin: 0px 50px 0px;
+        
+    }
+    
+    .card-text{
+        color: #DCFADC;
+        color: rgb(0, 0, 0);
+        background-color: #DCFADC;
+        padding: 10px;
+        
+    }
+    
+    .horiz_card{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    #cardsec2{
+        margin-top: 70px;
+        display: flex;
+      justify-content: center;
+      padding: 0px 150px 0px;
+    }
+    
+    #overview_content{
+       text-align: center;
+       margin-top: 80px;
+        
+    }
+    
+    #overview{
+       height: 250px;
+       width: 1160px;
+       background-color: #DCFADC;
+       box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+       border-radius: 20px;
+       margin: 10px auto;
+       text-align: center;
+       justify-content: center;
+       padding: 40px;
+       
+    }
+    
+    #cardimg1{
+        height: 100%;
+        width: 99%;
+        
+    }
+    #cardimg2{
+        opacity: 0.8;
+    }
+    #cardimg3{
+        opacity: 0.8;
+    }
+    #cardimg4{
+        opacity: 0.8;
+    }
+    #cardimg5{
+        opacity: 0.8;
+    }
+    #cardimg6{
+        opacity: 0.9;
+        height: 210px;
+    }
+    
+    .card-tital{
+        align-items: center;
+    }
+    

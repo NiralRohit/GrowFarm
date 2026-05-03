@@ -1,0 +1,231 @@
+/* ═══════════════════════════════════════════════════════════
+   Yield Finder — Modern Premium Styles
+   ═══════════════════════════════════════════════════════════ */
+
+.yf-container {
+  max-width: 1100px;
+  margin: 100px auto 40px;
+  padding: 0 20px;
+}
+
+.yf-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.yf-header h2 {
+  color: #1b4332;
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.yf-header p {
+  color: #6c757d;
+  font-size: 15px;
+}
+
+/* Form Card */
+.yf-form-card {
+  background: white;
+  border-radius: 16px;
+  padding: 32px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  margin-bottom: 30px;
+}
+
+.yf-form-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-bottom: 24px;
+}
+
+.yf-field label {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #2d6a4f;
+  margin-bottom: 6px;
+}
+
+.yf-input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 2px solid #e0e0e0;
+  border-radius: 10px;
+  font-size: 14px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background: #fafafa;
+  outline: none;
+}
+
+.yf-input:focus {
+  border-color: #2d6a4f;
+  box-shadow: 0 0 0 3px rgba(45, 106, 79, 0.12);
+  background: white;
+}
+
+.yf-submit-btn {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+  padding: 12px 32px;
+  background: linear-gradient(135deg, #2d6a4f, #40916c);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.yf-submit-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(45, 106, 79, 0.3);
+}
+
+.yf-submit-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.yf-alert {
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 0 auto 20px;
+}
+
+/* Results */
+.yf-results {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Summary Grid */
+.yf-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.yf-stat-card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px 16px;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.yf-stat-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.yf-stat-icon {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.yf-stat-label {
+  font-size: 12px;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+
+.yf-stat-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1b4332;
+}
+
+.yf-stat-unit {
+  font-size: 12px;
+  color: #6c757d;
+  margin-top: 4px;
+}
+
+.yf-stat-production { border-top: 4px solid #2d6a4f; }
+.yf-stat-yield { border-top: 4px solid #40916c; }
+.yf-stat-soil { border-top: 4px solid #95d5b2; }
+.yf-stat-weather { border-top: 4px solid #b7e4c7; }
+
+/* Charts Grid */
+.yf-charts-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 28px;
+}
+
+.yf-chart-card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+/* Recommendations */
+.yf-recommendations-card {
+  background: linear-gradient(135deg, #f0f8f0, #d8f3dc);
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 20px;
+  border: 1px solid #b7e4c7;
+}
+
+.yf-recommendations-card h5 {
+  color: #1b4332;
+  margin-bottom: 14px;
+  font-weight: 700;
+}
+
+.yf-recommendations-card ul {
+  margin: 0;
+  padding-left: 24px;
+}
+
+.yf-recommendations-card li {
+  color: #333;
+  line-height: 1.8;
+  font-size: 14px;
+}
+
+/* Method Info */
+.yf-method-info {
+  text-align: center;
+  color: #888;
+  font-size: 13px;
+  padding: 12px;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+/* Login Required */
+.yf-login-required {
+  margin-top: 150px;
+  text-align: center;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .yf-form-grid { grid-template-columns: repeat(2, 1fr); }
+  .yf-summary-grid { grid-template-columns: repeat(2, 1fr); }
+  .yf-charts-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 576px) {
+  .yf-form-grid { grid-template-columns: 1fr; }
+  .yf-summary-grid { grid-template-columns: 1fr; }
+  .yf-container { padding: 0 12px; margin-top: 80px; }
+}

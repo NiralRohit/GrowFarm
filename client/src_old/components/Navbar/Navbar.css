@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .container {
+    margin: 1rem;
+    text-align: center;
+  }
+  
+  #nav {
+    background-color: #DCFADC !important;
+    color: rgb(0, 0, 0) !important;
+    display: flex;
+    font-size: 15px;
+    font-weight: 700;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 1rem !important;
+    padding: 0 0.09rem !important;
+    height: 60px;
+    position: fixed;
+  }
+  
+  .site-title {
+    font-size: 1.9rem;
+    color: #000000 !important;
+    font-weight: 700;
+    margin-right: 10rem;
+  }
+  
+  #nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 0.3rem !important;
+    font-size: 17px;
+    
+  }
+  
+  #nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.1rem !important;
+  }
+  
+  #nav li {
+    /* margin-right: -40px; */
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  #nav li.active {
+    background-color: #9EFF9E;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  
+  #nav li:hover {
+    background-color: #9EFF9E;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .mainlogo1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+margin-right: 20px;
+height: 45px;
+  }
+
+
+  .css-rhsghg {
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: none !important;
+    object-fit: cover;
+}
+
+.notifiicon{
+  margin-top: 13px ;
+}
+
+#notifiModel{
+  margin-left: 70.5rem !important;
+  margin-left: 63rem !important;
+  margin-top: 56px;
+  overflow: hidden;
+  width: 400px !important;
+}

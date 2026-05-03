@@ -1,0 +1,108 @@
+.auth-wrapper_signup{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 95px;
+}
+
+.auth-inner_signup{
+    width: 1350px;
+    margin: auto;
+    background: #ffffff;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all 0.3s;
+}
+
+.auth-wrapper_signup .form-control:focus {
+    border-color: #167bff;
+    box-shadow: none;
+  }
+
+.auth-wrapper_signup h3 {
+    text-align: center;
+    margin: 0;
+    line-height: 1;
+    padding-bottom: 20px;
+  }
+
+.FnameSignup{
+   /* float: left; */
+   margin-right: 30px;
+   display: inline-block;
+  }
+.Compdivsignup{
+    margin-right: 40px;
+    width: 200px;
+   display: inline-block;
+  }
+#Adharenumberdiv{
+  width: 220px;
+}
+
+.Compdivsignuptextarea{
+    margin-right: 40px;
+    width: 440px;
+   display: inline-block;
+  }
+.MobilenumSignup{
+display: inline-block;
+ } 
+
+ .EmailSignup{
+    display: inline-block;
+ }
+
+ select{
+    appearance: auto !important;
+ }
+
+.AdharcardnumSignup{
+    margin-right: 30px;
+    display: inline-block;
+ }
+
+ .Mobilenummaindiv{
+  position: relative;
+ }
+
+ 
+.hrfortitle1{
+  width: 180px !important;
+  height: 3px !important;
+  margin-top: -6px !important;
+  padding: 0px !important;
+  color: rgb(53, 136, 53);
+  opacity: 1;
+}
+.hrfortitle2{
+  width: 350px !important;
+  height: 3px !important;
+  margin-top: -6px !important;
+  padding: 0px !important;
+  color: rgb(53, 136, 53);
+  opacity: 1;
+}
+
+.Smaintitle{
+  font-size: 1.525rem;
+  font-family: inherit;
+    font-weight: 400;
+    color: green;
+}
+
+
+ /* .justtest {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+ @keyframes shake {
+  0% { transform: translateX(0) }
+  25% { transform: translateX(30px) }
+  50% { transform: translateX(-10px) }
+  75% { transform: translateX(5px) }
+  100% { transform: translateX(0) }
+ } */

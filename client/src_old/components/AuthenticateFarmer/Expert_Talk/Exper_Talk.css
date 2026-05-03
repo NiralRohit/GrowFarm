@@ -1,0 +1,15 @@
+.Expertlistcard{
+    background-color: #DCFADC;
+    width : "180px" !important ;
+   border: 1px solid black;
+}
+
+.MainExpertlist{
+    float: left;
+}
+
+.Chatboxcontainer{
+    position: absolute;
+    margin-top: "170px" !important;
+    margin-left: "100px";
+}
